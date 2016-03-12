@@ -1,3 +1,7 @@
+name: django
+summary: A Django charm.
+description: A Django charm.
+maintainer: Tim Van Steenburgh <tvansteenburgh@gmail.com>
 tags:
   - django
   - cms

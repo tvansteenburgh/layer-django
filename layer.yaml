@@ -1,1 +1,2 @@
 includes: ['layer:basic', 'interface:pgsql', 'interface:http']
+repo: git@github.com:tvansteenburgh/layer-django.git
